@@ -1,4 +1,3 @@
-Used by madmetal
 
 # Jekyll-Bootstrap
 
